@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+assets/models/**
+!assets/models/
+!assets/models/README.md
+reference/*.webm
+reference/*.mp4
+*.blend1
+*.blend2
+renders/
+tmp/
+cache/
+deliverables/*.mp4
+deliverables/*.mov
+*.log
