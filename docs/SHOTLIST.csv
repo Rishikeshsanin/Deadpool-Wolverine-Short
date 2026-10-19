@@ -1,0 +1,9 @@
+shot,start_s,end_s,location,animation,camera,audio_vfx
+01,0.0,3.6,rooftop,"Deadpool jokes while Wolverine senses threat","two-shot dolly-in","opening impact and narrator hook"
+02,3.6,6.0,skyline,"far-away intense flash lights characters","wide skyline to heroes push","flash whoosh distant siren"
+03,6.0,9.2,rooftop,"pressure wave approaches both heroes brace","low tracking shot controlled shake","shockwave rumble debris"
+04,9.2,12.8,science cutaway,"adamantium silhouette and damage visualization","slow orbit of detailed metal anatomy","metallic sting"
+05,12.8,17.7,science cutaway,"non-graphic healing and limits visualized","macro VFX camera push","healing shimmer"
+06,17.7,23.8,smoky rooftop,"Deadpool recovery silhouette particles assemble","tracking medium close-up","subtle whoosh narration"
+07,23.8,27.1,aftermath rooftop,"characters intact but dusty with distant wreckage","crane wide to medium duo","wind bed narrator conclusion"
+08,27.1,32.5,aftermath rooftop,"Deadpool punchline and Wolverine disgust reaction","Deadpool close-up then Wolverine reverse and cut","record scratch comedy pop"
